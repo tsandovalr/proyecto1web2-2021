@@ -1,0 +1,13 @@
+.register-container{
+    border-style: solid;
+    padding: 50px;
+    background-image: linear-gradient(right,blue,black);
+    
+}
+#register-form{
+    padding: 30px;
+}
+
+.content{
+    padding: 15px;
+}
